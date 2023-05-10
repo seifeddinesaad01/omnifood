@@ -1,2 +1,2 @@
-#Omnifood Landing Page
+# OMNIFOOD Landing Page
 ![omnifood](./img/omnifood.png "Optional Title")
